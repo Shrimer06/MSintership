@@ -1,0 +1,12 @@
+{
+  "name": "张三",
+  "list_result": {
+    "code": 20000,
+    "data": {
+      "data": []
+    },
+    "message": "成功",
+    "success": true
+  },
+  "detail_results": []
+}
